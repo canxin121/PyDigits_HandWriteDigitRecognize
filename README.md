@@ -6,4 +6,6 @@
 2.recognize.py可以提供一个tk窗口来进行识别，注意先输入行数（默认1），此py依赖more.py进行数字分割。   
 3.另有nonebot2插件接入cqhttp，马上发布。  
 
-![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)  
+![image](https://github.com/canxin121/PyDigits_HandWriteDigitRecognize/blob/main/envdav/show%20(1).png)  
+![image](https://github.com/canxin121/PyDigits_HandWriteDigitRecognize/blob/main/envdav/show%20(3).png)  
+![image](https://github.com/canxin121/PyDigits_HandWriteDigitRecognize/blob/main/envdav/show%20(2).png)  

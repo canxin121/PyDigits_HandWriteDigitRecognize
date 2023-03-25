@@ -1,5 +1,5 @@
 # PyDigits_HandWriteDigitRecognize
-
+本项目没有什么实际作用，主要用于学习python和深度学习方面的知识。  
 本项目包括  
 1.mnist数据集的创建：首先将各个数字的照片分好类放在old中，通过prepic.py可以将其处理成可以用于转化为ubyte类型数据集的黑底白字28*28图  
 进而分配为训练集train和测试集test两部分，然后通过pictoubyte.py转化为mnist同格式的训练集和测试集。  
